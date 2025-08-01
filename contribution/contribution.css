@@ -41,7 +41,7 @@
   opacity: 0;
 }
 
-.skill-per.html {
+/* .skill-per.html {
    /*progreso de las diferentes lenguajes*/
   width: 50%;
   animation-delay: 0.1s;
@@ -63,7 +63,7 @@
       /*progreso de las diferentes lenguajes*/
   width: 30%;
   animation-delay: 0.3s;
-}
+} */
 
 @keyframes progress {
   0% {
@@ -85,7 +85,7 @@
   color: #fff;
   padding: 2px 6px;
   border-radius: 3px;
-  background: #D37854;
+  background: #AC4239;
   z-index: 1;
 }
 
@@ -97,6 +97,6 @@
   height: 10px;
   width: 10px;
   z-index: -1;
-  background-color: #D37854;
+  background-color: #AC4239;
   transform: translateX(-50%) rotate(45deg);
 }
