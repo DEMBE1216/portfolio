@@ -41,27 +41,27 @@
   opacity: 0;
 }
 
-.skill-per.html {
+.skill-per.a {
    /*progreso de las diferentes lenguajes*/
-  width: 50%;
+/*   width: 50%; */
   animation-delay: 0.1s;
 }
 
-.skill-per.css {
+.skill-per.b {
          /*progreso de las diferentes lenguajes*/
-  width: 70%;
+/*   width: 70%; */
   animation-delay: 0.1s;
 }
 
-.skill-per.javascript {
+.skill-per.c {
       /*progreso de las diferentes lenguajes*/
-  width: 50%;
+/*   width: 50%; */
   animation-delay: 0.2s;
 }
 
-.skill-per.nodejs {
+.skill-per.d {
       /*progreso de las diferentes lenguajes*/
-  width: 30%;
+/*   width: 30%; */
   animation-delay: 0.3s;
 }
 
