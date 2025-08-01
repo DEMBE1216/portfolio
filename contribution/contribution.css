@@ -3,7 +3,7 @@
   position: relative;
   max-width: 500px;
   width: 100%;
-  background: #ececec;
+/*   background: #ececec; */
   margin: 0 15px;
   padding: 10px 20px;
   border-radius: 7px;
@@ -11,7 +11,7 @@
 
 .container .skill-box {
   width: 100%;
-  margin: 25px 0;
+  margin: 20px 0;
 }
 
 .skill-box .title {
@@ -22,7 +22,7 @@
 }
 
 .skill-box .skill-bar {
-  height: 8px;
+  height: 15px;
   width: 100%;
   border-radius: 6px;
   margin-top: 6px;
@@ -35,7 +35,8 @@
   height: 100%;
   width: 90%;
   border-radius: 6px;
-  background: #4070f4;
+  background: #D37854;
+  background: linear-gradient(103deg,rgba(211, 120, 84, 1) 0%, rgba(172, 66, 57, 1) 100%);
   animation: progress 0.4s ease-in-out forwards;
   opacity: 0;
 }
@@ -84,7 +85,7 @@
   color: #fff;
   padding: 2px 6px;
   border-radius: 3px;
-  background: #4070f4;
+  background: #D37854;
   z-index: 1;
 }
 
@@ -96,6 +97,6 @@
   height: 10px;
   width: 10px;
   z-index: -1;
-  background-color: #4070f4;
+  background-color: #D37854;
   transform: translateX(-50%) rotate(45deg);
 }
