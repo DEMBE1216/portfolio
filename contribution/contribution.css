@@ -41,7 +41,7 @@
   opacity: 0;
 }
 
-/* .skill-per.html {
+.skill-per.html {
    /*progreso de las diferentes lenguajes*/
   width: 50%;
   animation-delay: 0.1s;
@@ -63,7 +63,7 @@
       /*progreso de las diferentes lenguajes*/
   width: 30%;
   animation-delay: 0.3s;
-} */
+}
 
 @keyframes progress {
   0% {
